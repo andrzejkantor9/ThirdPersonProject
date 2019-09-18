@@ -1,0 +1,3 @@
+D:\ThirdPersonProject\ThirdPersonProject\Source\ThirdPersonProject\ThirdPersonProject.Build.cs
+D:\ThirdPersonProject\ThirdPersonProject\Source\ThirdPersonProject.Target.cs
+D:\ThirdPersonProject\ThirdPersonProject\Source\ThirdPersonProjectEditor.Target.cs
